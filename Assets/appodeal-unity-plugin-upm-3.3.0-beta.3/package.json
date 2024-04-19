@@ -1,0 +1,32 @@
+{
+  "name": "com.appodeal.mediation",
+  "version": "3.3.0-beta.3",
+  "displayName": "Appodeal",
+  "description": "Monetize more with less hassle. Our one ad mediation SDK includes it all: 70+ ad demand sources, all ad formats, in-app bidding algorithm, full-controls, a/b testing plus much more.",
+  "documentationUrl": "https://docs.appodeal.com/unity/get-started",
+  "changelogUrl": "https://docs.appodeal.com/unity/changelog",
+  "unity": "2020.3",
+  "unityRelease": "16f1",
+  "dependencies": {
+    "com.google.external-dependency-manager": "1.2.175"
+  },
+  "keywords": [
+    "Ads",
+    "Appodeal",
+    "Mediation",
+    "Monetization"
+  ],
+  "samples": [
+    {
+      "displayName": "Usage Sample",
+      "description": "Appodeal Usage Sample with a Demo Scene and C# Implementation",
+      "path": "Samples~/UsageSample"
+    }
+  ],
+  "author":
+  {
+      "name": "Appodeal Stack",
+      "email": "hi@appodeal.com",
+      "url": "https://appodeal.com"
+  }
+}
